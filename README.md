@@ -1,4 +1,4 @@
-# robotonio-Power-Generating-Pavement-Slabs
+# Power-Generating-Pavement-Slabs
 
 Power Generating Pavement Slabs (PGPS)
 
