@@ -95,6 +95,7 @@ Power Generating Pavement Slabs (PGPS)
 Προυπολογισμός
 ------------------------------------
 
+
 | Υλικά  | Κόστος (ευρώ)|
 | :-----:|:-------:|
 |Piezoelecric Sensors x12| 5|
