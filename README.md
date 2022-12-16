@@ -1,5 +1,7 @@
 # Power-Generating-Pavement-Slabs
 
+Συμμετοχή στον Πανελλήνιο διαγωνισμό FLL
+
 Power Generating Pavement Slabs (PGPS)
 
 Ομάδα: Dream Team 
