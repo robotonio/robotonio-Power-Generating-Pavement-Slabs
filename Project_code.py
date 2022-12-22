@@ -38,15 +38,15 @@ class Project:
                 I2C_LCD1602.ShowString(self.charging_status, 4, 1)
 
     def update_screen(self):
-        SWEG. update_values(1)
+        PGPS. update_values(1)
         basic.pause(2000)
-        SWEG. update_values(2)
+        PGPS. update_values(2)
         basic.pause(2000)
-        SWEG. update_values(3)
+        PGPS. update_values(3)
         basic.pause(2000)
 
-SWEG = Project()
+PGPS = Project()
 def on_forever():
-    SWEG.update_screen()
+    PGPS.update_screen()
 
 basic.forever(on_forever)
