@@ -35,7 +35,7 @@ Power Generating Pavement Slabs (PGPS)
 >Κυρίως υλικά
 1)	Piezoelectric Sensors
 2)	3d printed parts
-3)	Διάφορα ηλεκρτονικά
+3)	Διάφορα ηλεκτρονικά
 
 >Ηλεκτρονικά
 
